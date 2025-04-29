@@ -43,3 +43,10 @@ I'm always learning and evolving, never tiring of keeping up-to-date in this exc
 
 <h3>📭 How to reach Me</h3>
 
+
+<a href="mailto:amiralimirabdolah@gmail.com">
+<img align="center" src="https://github.com/Amirali-Mirabdolah/Amirali-Mirabdolah/blob/main/icons8-gmail-48.png?raw=true"/>
+</a>
+<a href="https://www.linkedin.com/in/amirali-mirabdolah/">
+<img align="center" src="https://github.com/Amirali-Mirabdolah/Amirali-Mirabdolah/blob/main/icons8-linkedin-48.png?raw=true"/>
+</a>
