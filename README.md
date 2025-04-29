@@ -1,16 +1,18 @@
 ## Hi There, I`m Seyed Amirali Mirabdolah🖐
-With nearly 3 years of experience in front-end development, I craft seamless user experiences using HTML, CSS, JavaScript, React, and Tailwind. 💻 </br>
+With nearly 3 years of experience in front-end development, I craft seamless user experiences using HTML, CSS, JavaScript and React. 💻 </br>
 Thrilled by challenges, I believe they fuel deeper understanding and innovation in programming. 💥 </br>
-I'm always learning and evolving, never tiring of keeping up-to-date in this exciting field. I look forward to opportunities where I can tackle even greater challenges! 🔎 </br>
+I'm always learning and evolving, never tiring of keeping up-to-date in this exciting field. 💹 </br>
+I look forward to opportunities where I can tackle even greater challenges! 🔎 </br>
+</br>
 
-**💻 Front-End Developer**  
- <sub>🌱 Seeking opportunities to grow, learn, and build exceptional user experiences! 🚀</sub>
+- **💻 Front-End Developer**  
+  🌱 Seeking opportunities to grow, learn, and build exceptional user experiences! 🚀
 
-**⚛️ React Enthusiast**  
-<sub>✨ Passionate about crafting dynamic web applications and excited to innovate, grow, and contribute to the React progects!</sub>
+- **⚛️ React Enthusiast**  
+  ✨ Passionate about crafting dynamic web applications and excited to innovate, grow, and contribute to the React progects!
 
-**🎓 Bachelor of Computer Engineering**  
-<sub>🖱 Interested in building innovative solutions with code!</sub>
+- **🎓 Bachelor of Computer Engineering**  
+  🖱 Interested in building innovative solutions with code!
 
 ----
 
