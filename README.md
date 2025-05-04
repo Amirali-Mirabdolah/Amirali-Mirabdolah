@@ -13,7 +13,9 @@ I look forward to opportunities where I can tackle even greater challenges! 🔎
 
 - **🎓 Bachelor of Computer Engineering**  
   🖱 Interested in building innovative solutions with code!
-
+  
+- **🔎 Expanding My Horizons**  
+  ⏳ Currently diving deep into **TypeScript** and **Next.js**, exploring how to write cleaner, more scalable code while pushing my frontend development skills to the next level. 
 ----
 
 <h3>🔧 Tech Stack</h3>
@@ -34,12 +36,13 @@ I look forward to opportunities where I can tackle even greater challenges! 🔎
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</sub>
 
-- 📚 &nbsp;
-  <sub>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</sub>
-
 - ⚙ &nbsp;
   <sub>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</sub>
+
+- 🔎 &nbsp;
+  <sub>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</sub>
 
 ----
 
